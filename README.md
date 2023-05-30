@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/Tusnu/social-proof-section)
-- Live Site URL: [](https://tusnu.github.io/social-proof-section/)
+- Solution URL: [Solution](https://github.com/Tusnu/social-proof-section)
+- Live Site URL: [Live site](https://tusnu.github.io/social-proof-section/)
 
 ## My process
 
